@@ -7,18 +7,11 @@ Open and view the Project using the `.zip` file provided or at my [Github Reposi
 The project is also hosted on [Github](https://madhur-taneja.github.io/Personal-Blog-Website).
 
 ## Table of Contents
-- [Getting Started](#getting-started)
 	- [Tools Required](#tools-required)
 	- [Installation](#installation)
 - [Development](#development)
 - [Features](#features)
 - [Running the App](#running-the-app)
-
-## Getting Started
-
-This project was built from scratch and is a part of Udacity's Refreshed Front-End Nanodegree program. 
-
-The project will be evaluated by a Udacity code reviewer according to the Personal Blog Website project [rubric](https://review.udacity.com/#!/rubrics/2667/view)
 
 ### Tools Required
 
@@ -62,7 +55,6 @@ For details now how everything has been implemented, refer the source code.
 ## Features
 
 * Only first blog post has a dedicated page for it, rest are all dummies.
-* Flexbox and Grid are used for all pages.
 * There are 2 major pages for the website: `Landing page` and `Blogs Homepage`
 * The project also contains a dedicated `About-Us` page.
 
