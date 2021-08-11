@@ -13,7 +13,6 @@ The project is also hosted on [Github](https://madhur-taneja.github.io/Personal-
 - [Development](#development)
 - [Features](#features)
 - [Running the App](#running-the-app)
-- [References](#references)
 
 ## Getting Started
 
@@ -58,9 +57,6 @@ No additional installation is required for this project
 
   Import all the modularized css files to `css/styles.css`
 
-* Create `js` directory with the following file:
-  * `app.js` for adding navbar toggle button functionality
-
 For details now how everything has been implemented, refer the source code.
 
 ## Features
@@ -75,8 +71,3 @@ For details now how everything has been implemented, refer the source code.
 * Open the project through the `.zip` file provided and extract the files. 
   > Open `index.html` in the browser of your choice.
 
-## References
-
-* Responsive navbar from [itnext](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf)
-* Images used from [Pixabay](https://pixabay.com/) 
-* Blog Content from [The Nomadic Matt](https://www.nomadicmatt.com/)
