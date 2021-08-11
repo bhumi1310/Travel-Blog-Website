@@ -61,6 +61,7 @@ For details now how everything has been implemented, refer the source code.
 * Open the project through the `.zip` file provided and extract the files. 
   > Open `index.html` in the browser of your choice.
 
+
 ![image](https://user-images.githubusercontent.com/55940353/129017677-8348872d-d4ee-4961-85b5-9052f7a68b6e.png)
 ![image](https://user-images.githubusercontent.com/55940353/129017737-697d8aff-3e7a-4577-96a7-45047b500024.png)
 ![image](https://user-images.githubusercontent.com/55940353/129017789-61bc0bb8-0b1e-4b85-9c0c-425121fc448c.png)
